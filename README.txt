@@ -1,4 +1,4 @@
-PaintTool SAI xelloss 汉化版本地化测试
+PaintTool SAI xelloss 简体中文版本地化测试
 
 当前版本：
 
